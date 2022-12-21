@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alfatiha
 - 👀 I’m interested in Software Engeenering 
-- 🌱 I’m currently learning Alx SE
+- 🌱 I’m currently learning at Alx SE
 - 💞️ I’m looking to collaborate on anything that can benefit me as a begineer 
 - 📫 How to reach me alfatihaahmed@gmail.com
 Glad to be here 
